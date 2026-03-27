@@ -38,3 +38,17 @@ We'll attempt to get back to you asap to resolve the issue however, if we are un
 #### Modifying WEX:
 
 You cannot *directly* modify WEX as it is against our licensing policy, instead: you are able to use WEX Script to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
+
+
+### LICENSING
+
+#### Tiers of License:
+
+|                   | Community | Commerical | Enterprise | Education             |
+| ----------------- | :-------: | :--------: | :--------: | :-------------------: |
+| Price $           |   free    |  $69/year  | $399/year  | free *(for students)* |
+| Open-Source?      |    Yes    |    Yes     |     No     | Yes                   |
+| Latest version?   |    No     |     No     |    Yes     | Yes                   |
+| Commercial Use?   |    No     |    Yes     |    Yes     | No                    |
+| Community Forks?  |    Yes    |    Yes     |     No     | No                    |
+| Official Support? |    No     |     No     |    Yes     | Yes                   |
