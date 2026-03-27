@@ -1,2 +1,40 @@
-# WEX-Framework
- 
+# WELCOME TO WEX
+
+### What is WEX?
+
+WEX is a framework designed to improve the efficiency of engineering a streaming service, it was originally developed as the base for [WatchFlicker](https://watchflicker.doubtmedia.com/) in 2025 with WEX 3112-IR. It was originally built in Python & JavaScript but is now being developed used Python, SQL, TypeScript, and [Gram](https://github.com/meeratsdev/symlang/). 
+
+### How To Install WEX:
+
+1. Download the latest build of WEX from the GitHub repo's [releases](https://github.com/meeratsdev/wex-framework/releases/) 
+2. Run `wex-configurator.exe`
+	1. input your project's information (Name, WEX License, Author, GitHub Repo)
+	2. Click "generate config" **IMPORTANT: DO NOT SHARE YOUR CONFIG FILE**
+	3. drag the config file into `/path/to/wex/configs/`
+3. Put the WEX files onto a web server (we recommend Vercel as a free option or AWS as a payed option)
+
+### How To Use WEX:
+
+#### Configuring WEX:
+
+If you didn't configure WEX properly during installation *or* you wish to alter settings after you've already setup WEX you can simply:
+1. go to `https://dashboard.wex.org/`
+2. enter your login details from when you first configured WEX
+and voila: you can edit *any* setting you want including:
+- Add/Remove content
+- Changing site layout and/or styles
+- Enable/disable account features
+- etc.
+
+#### What to do if you forgot your WEX login:
+
+1. go to `https://support.wex.org`
+2. select: "I am a WEX user"
+3. choose: "Account Issue"
+4. fill out the ticket with your issue
+
+We'll attempt to get back to you asap to resolve the issue however, if we are unable to verify your identity you will not be given access to the login credentials at which point we suggest simply reinstalling WEX.
+
+#### Modifying WEX:
+
+You cannot *directly* modify WEX as it is against our licensing policy, instead: you are able to use WEX Script to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
