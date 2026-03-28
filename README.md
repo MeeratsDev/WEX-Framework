@@ -1,5 +1,7 @@
 # WELCOME TO WEX
 
+- [Credits](CREDITS.md)
+
 ### What is WEX?
 
 WEX is a framework designed to improve the efficiency of engineering a streaming service, it was originally developed as the base for [WatchFlicker](https://watchflicker.doubtmedia.com/) in 2025 with WEX 25.3112-IR. It was originally built in Python & JavaScript but is now being developed used Python, SQL, TypeScript, and [Gram](https://github.com/meeratsdev/symlang/) as of WEX 26.2703-BR. 
