@@ -10,7 +10,7 @@ WEX is a framework designed to improve the efficiency of engineering a streaming
 2. Run `wex-configurator.exe`
 	1. input your project's information (Name, WEX License, Author, GitHub Repo)
 	2. Click "generate config" **IMPORTANT: DO NOT SHARE YOUR CONFIG FILE**
-	3. drag the config file into `/path/to/wex/configs/`
+	3. drag the config file into `/configs`
 3. Put the WEX files onto a web server (we recommend Vercel as a free option or AWS as a payed option)
 
 ### How To Use WEX:
@@ -37,18 +37,25 @@ We'll attempt to get back to you asap to resolve the issue however, if we are un
 
 #### Modifying WEX:
 
-You cannot *directly* modify WEX as it is against our licensing policy, instead: you are able to use WEX Script to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
+##### Plugins:
 
+You are able to use TypeScript to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
+
+##### Forking:
+
+WEX Community is fully open-source and you can fork it freely to modify it however you want, since WEX Commercial licenses are just WEX Community that allows commercial usage you are able to use all WEX community forks with a WEX Commercial license. However forking WEX Enterprise 
 
 ### LICENSING
 
 #### Tiers of License:
 
-|                   | Community | Commerical | Enterprise | Education             |
-| ----------------- | :-------: | :--------: | :--------: | :-------------------: |
-| Price $           |   free    |  $69/year  | $399/year  | free *(for students)* |
-| Open-Source?      |    Yes    |    Yes     |     No     | Yes                   |
-| Latest version?   |    No     |     No     |    Yes     | Yes                   |
-| Commercial Use?   |    No     |    Yes     |    Yes     | No                    |
-| Community Forks?  |    Yes    |    Yes     |     No     | No                    |
-| Official Support? |    No     |     No     |    Yes     | Yes                   |
+|                        | Community | Commerical | Enterprise |       Education       |
+| ---------------------- | :-------: | :--------: | :--------: | :-------------------: |
+| Price $                |   free    |  $69/year  | $399/year  | free *(for students)* |
+| Open-Source?           |    Yes    |    Yes     |     No     |          Yes          |
+| Latest version?        |    No     |     No     |    Yes     |          Yes          |
+| Commercial Use?        |    No     |    Yes     |    Yes     |          No           |
+| Allows Forks?          |    Yes    |    Yes     |     No     |          No           |
+| Official Support?      |    No     |     No     |    Yes     |          Yes          |
+| Supports Plugins?      |    Yes    |    Yes     |    Yes     |          Yes          |
+| Self-Hosted Dashboard? |    No     |     No     |    Yes     |          No           |
