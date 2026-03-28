@@ -43,7 +43,7 @@ You are able to use TypeScript to create custom plugins for WEX which are instal
 
 ##### Forking:
 
-WEX Community is fully open-source and you can fork it freely to modify it however you want, since WEX Commercial licenses are just WEX Community that allows commercial usage you are able to use all WEX community forks with a WEX Commercial license. However forking WEX Enterprise 
+WEX Community is fully open-source and you can fork it freely to modify it however you want, since WEX Commercial licenses are just WEX Community that allows commercial usage you are able to use all WEX community forks with a WEX Commercial license. However forking WEX Enterprise is not permitted as WEX Enterprise contains recent code that may be removed at a later point and is bleeding-edge.
 
 ### LICENSING
 
