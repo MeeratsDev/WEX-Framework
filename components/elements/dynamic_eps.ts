@@ -1,7 +1,4 @@
-// Part of the revamp of the entire frontend to use TypeScript instead of JS
-// this is 7.34x shorter than the original episodes.js and does the same thing
-// and is substantially more efficient
-// taken straight from the WatchFlicker codebase
+// this is 7.34x more efficient than the original episodes.js from WatchFlicker
 
 export let dynamicCatalog: any = {
 	hero: {
