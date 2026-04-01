@@ -1,0 +1,23 @@
+{
+    "license": {
+        "key": ""
+    },
+    "application": {
+        "name": "",
+        "version": "",
+        "repo_link": "",
+        "description": ""
+    },
+    "developer_details": {
+        "dashboard_login": {
+            "username": "",
+            "password": ""
+        }
+    },
+    "features": {
+        "name": {
+            "status": "active | inactive",
+            "file": "../components/[class]/[feature_name]"
+        }
+    }
+}
