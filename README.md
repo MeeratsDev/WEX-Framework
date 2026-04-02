@@ -51,13 +51,13 @@ WEX Community is fully open-source and you can fork it freely to modify it howev
 
 #### Tiers of License:
 
-|                        | Community | Commerical | Enterprise |       Education       |
-| ---------------------- | :-------: | :--------: | :--------: | :-------------------: |
-| Price $                |   free    |  $69/year  | $399/year  | free *(for students)* |
-| Open-Source?           |    Yes    |    Yes     |     No     |          Yes          |
-| Latest version?        |    No     |     No     |    Yes     |          Yes          |
-| Commercial Use?        |    No     |    Yes     |    Yes     |          No           |
-| Allows Forks?          |    Yes    |    Yes     |     No     |          No           |
-| Official Support?      |    No     |     No     |    Yes     |          Yes          |
-| Supports Plugins?      |    Yes    |    Yes     |    Yes     |          Yes          |
-| Self-Hosted Dashboard? |    No     |     No     |    Yes     |          No           |
+|                        | Community<br>*(>10 People)* | Business<br>*(>100 People)*<br> | Enterprise<br>*(<100 People)* | Education<br>*(Students & Teachers)* |
+| ---------------------- | :-------------------------: | :-----------------------------: | :---------------------------: | :----------------------------------: |
+| Price $                |            free             |            $39/year             |           $399/year           |        free *(for students)*         |
+| Open-Source?           |             Yes             |               Yes               |              No               |                  No                  |
+| Latest version?        |             No              |               No                |              Yes              |                 Yes                  |
+| Commercial Use?        |             Yes             |               Yes               |              Yes              |                  No                  |
+| Allows Forks?          |             Yes             |               Yes               |              No               |                  No                  |
+| Official Support?      |             No              |               Yes               |              Yes              |                 Yes                  |
+| Supports Plugins?      |             Yes             |               Yes               |              Yes              |                 Yes                  |
+| Self-Hosted Dashboard? |             No              |               Yes               |              Yes              |                  No                  |
