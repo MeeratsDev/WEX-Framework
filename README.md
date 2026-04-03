@@ -28,10 +28,10 @@ If you didn't configure WEX properly during installation *or* you wish to alter 
 1. go to `https://dashboard.wex.org/`
 2. enter your login details from when you first configured WEX
 and voila: you can edit *any* setting you want including:
-- Add/Remove content
-- Changing site layout and/or styles
-- Enable/disable account features
-- etc.
+	- Add/Remove content
+	- Changing site layout and/or styles
+	- Enable/disable account features
+	- etc.
 
 #### What to do if you forgot your WEX login:
 
