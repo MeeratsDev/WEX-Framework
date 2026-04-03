@@ -14,7 +14,7 @@ WEX is a framework designed to improve the efficiency of engineering a streaming
 2. Run `wex-configurator.exe`
 	1. input your project's information (Name, WEX License, Author, GitHub Repo)
 	2. Click "generate config" **IMPORTANT: DO NOT SHARE YOUR CONFIG FILE**
-	3. drag the config file into `/configs`
+	3. drag the config file into `/core//configs`
 3. Put the WEX files onto a web server (we recommend Vercel as a free option or AWS as a payed option)
 
 ### How To Use WEX:
@@ -46,7 +46,7 @@ We'll attempt to get back to you asap to resolve the issue however, if we are un
 
 ##### Plugins:
 
-You are able to use TypeScript to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
+You are able to use TypeScript to create custom plugins for WEX which are installed by dropping the files of the plugin into the `"/core//plugins"` directory in your WEX installation. These can be minor tweaks or even complete feature sets. Community-made WEX plugins are available on `https://plugins.wex.org/`
 
 ##### Forking:
 
