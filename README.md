@@ -17,8 +17,9 @@ WEX is a framework designed to improve the efficiency of engineering a streaming
 
 ### How To Use WEX:
 
-[!warning]
-> WEX requires Python 3.13 or later, and Node.js with NPM for TypeScript
+
+> [!IMPORTANT]
+> WEX requires Python 3.13 or later & Node.js + NPM to function!
 
 #### Configuring WEX:
 
