@@ -1,6 +1,8 @@
 # WELCOME TO WEX
 
-- [Credits](CREDITS.md)
+> [!WARNING]
+> WEX is still in early development and should be used with caution.
+> Please report any bugs or vulnerabilities you find in the issues on the GitHub repo.
 
 ### What is WEX?
 
@@ -16,7 +18,6 @@ WEX is a framework designed to improve the efficiency of engineering a streaming
 3. Put the WEX files onto a web server (we recommend Vercel as a free option or AWS as a payed option)
 
 ### How To Use WEX:
-
 
 > [!IMPORTANT]
 > WEX requires Python 3.13 or later & Node.js + NPM to function!
